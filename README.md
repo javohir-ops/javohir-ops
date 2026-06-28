@@ -6,7 +6,7 @@
 🇺🇿 Tashkent, Uzbekistan
 
 ## 📝 CTF Writeups
-> Coming soon...
+
 
 ## 🛠️ Tools
 Burp Suite | Nmap | Linux | Python
